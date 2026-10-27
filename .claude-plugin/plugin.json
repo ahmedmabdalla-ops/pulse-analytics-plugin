@@ -1,0 +1,22 @@
+{
+  "name": "pulse-analytics",
+  "displayName": "Pulse Analytics",
+  "version": "1.1.0",
+  "description": "Read-only Pulse portfolio, trading and risk analytics, metric explanations and product guidance for Pulse Pro users in Egypt. Subscription purchases take place on the official Pulse website. No trade execution or portfolio changes.",
+  "author": {
+    "name": "Pulse Analytics",
+    "email": "support@mypulseanalytics.com",
+    "url": "https://mypulseanalytics.com"
+  },
+  "homepage": "https://mypulseanalytics.com/pulse-plugin/",
+  "icon": "./assets/pulse-app-icon-512.png",
+  "privacyPolicyUrl": "https://mypulseanalytics.com/pulse-plugin/privacy",
+  "license": "LicenseRef-Pulse-Plugin",
+  "keywords": [
+    "pulse",
+    "portfolio",
+    "analytics",
+    "egypt",
+    "egx"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pulse-analytics": {
+      "type": "http",
+      "url": "https://mypulseanalytics.com/api/mcp"
+    }
+  }
+}
