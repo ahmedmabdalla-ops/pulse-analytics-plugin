@@ -16,7 +16,9 @@ The remote connection uses https://mypulseanalytics.com/api/mcp. Sign in on Puls
 
 The community distribution route uses this public GitHub repository and the MCP Registry. It does not require a paid Claude or ChatGPT publisher account. Official in-product directory submissions are on hold; community discovery is separate from approval or search placement in those directories.
 
-Registry name: `io.github.ahmedmabdalla-ops/pulse-analytics`. The versioned declaration is in [server.json](server.json). A manually triggered GitHub Actions workflow validates and publishes it with short-lived GitHub OIDC authentication. It uses a standard public-repository runner and no saved API key, personal token, paid AI model call, build artifact storage or production deployment.
+**[Live MCP Registry listing](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.ahmedmabdalla-ops%2Fpulse-analytics/versions/latest): version 1.1.0, active and searchable**, verified 27 October 2026.
+
+Registry name: `io.github.ahmedmabdalla-ops/pulse-analytics`. The versioned declaration is in [server.json](server.json). A manually triggered GitHub Actions workflow validates and publishes it with short-lived GitHub OIDC authentication. It uses a standard public-repository runner and no saved API key, personal token, paid AI model call, build artifact storage or production deployment. The successful publication run is [available here](https://github.com/ahmedmabdalla-ops/pulse-analytics-plugin/actions/runs/40469557087).
 
 ## Connect from a supported host
 
